@@ -1,0 +1,181 @@
+{
+  "req": true,
+  "data": {
+    "swiperList": [{
+        "id": "0001",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/818f6cc784ae6669b74bbbb255414a53.jpg_750x200_66ca5873.jpg"
+      }, {
+        "id": "0002",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/87a224d0349d94a11e97f31aa1aba4f5.jpg_750x200_1f78af87.jpg"
+      }, {
+        "id": "0003",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/d7bbc21db442366a882e04ddc984669a.jpg_750x200_85e640d9.jpg"
+      }, {
+        "id": "0004",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/ae8987bff39ff10e82675a3643154e66.jpg_750x200_0f187b2e.jpg"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/483ad58e4319885ebc95bd3b2a0a8fbd.jpg_750x200_850ef75d.jpg"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/2ff36bbdbc635cdd753a92e042a37777.jpg_750x200_d10fed4d.jpg"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/9dd72b331a3cbdfc904f26f0050ce15b.jpg_750x200_98e33b22.jpg"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20196/bc4504a3671b72e19939177e1767a422.jpg_750x200_277b415c.jpg"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/2bf6cffe02525445c215e45ea128162b.jpg_750x200_32f01903.jpg"
+      }
+    ],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+      "desc": "景点门票"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/4d/a1eda1a2b8414302.png",
+      "desc": "暑期夜场"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+      "desc": "成都必游"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png",
+      "desc": "川剧变脸"
+    }, {
+      "id": "0005",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20193/a40ee278d67000f2a29d2e20f6a029b3.png",
+      "desc": "自然风光"
+    }, {
+      "id": "0006",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+      "desc": "碧峰峡"
+    }, {
+      "id": "0007",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+      "desc": "游乐场"
+    }, {
+      "id": "0008",
+      "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/54/35899492b1302802.png",
+      "desc": "熊猫基地"
+    }, {
+      "id": "0009",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20197/57489034f410bdc823e7fa1b9e82dfd4.png",
+      "desc": "清凉一夏"
+    }, {
+      "id": "0010",
+      "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/f04285731d7121da1b9028e2bf431695.png",
+      "desc": "都江堰"
+    }
+  ],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/p0/1612/1d/1d9a740c1f9e0efaa3.img.jpg_200x200_63285bd9.jpg",
+      "tag": "随买随用",
+      "title": "成都海昌极地海洋公园",
+      "price": 49.9,
+      "commentNum": 39071,
+      "location": "双流区"
+    },
+  {
+    "id": "0002",
+    "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/03/77a8f60ea243465fdf2c937e2edd33dd.jpg_200x200_51dd1e90.jpg",
+    "tag": "可订今日",
+    "title": "国色天乡·水上乐园",
+    "price": 77.9,
+    "commentNum": 9794,
+    "location": "国色天香"
+  }, {
+    "id": "0003",
+    "imgUrl": "http://img1.qunarzz.com/sight/p0/1809/72/725f0abc0fb61d0ca3.img.jpg_200x200_6e1fbb45.jpg",
+    "tag": "随买随用",
+    "title": "随买随用",
+    "price": 800,
+    "commentNum": 823,
+    "location": "都江堰市"
+  }, {
+    "id": "0004",
+    "imgUrl": "http://img1.qunarzz.com/sight/p0/201309/24/977fea7b3c5cd758c8d65eac.jpg_200x200_697c3b3f.jpg",
+    "tag": "随买随用",
+    "title": "成都大熊猫繁育研究基地",
+    "price": 19.8,
+    "commentNum": 156209,
+    "location": "成华区"
+  }, {
+    "id": "0005",
+    "imgUrl": "http://img1.qunarzz.com/sight/p0/1512/3a/3ab83c0358208e8d90.img.jpg_200x200_14e2fbfd.jpg",
+    "tag": "随买随用",
+    "title": "花水湾四季温泉谷",
+    "price": 139,
+    "commentNum": 406,
+    "location": "花水湾温泉谷"
+  }, {
+    "id": "0006",
+    "imgUrl": "http://img1.qunarzz.com/sight/p0/1509/1d/e74e796e4e21275427ffdd838619f45f.water.jpg_200x200_d994e778.jpg",
+    "tag": "随买随用",
+    "title": "成都欢乐谷",
+    "price": 79,
+    "commentNum": 25469,
+    "location": "金牛区"
+  }, {
+    "id": "0007",
+    "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/b0/b0132e78efa00572.water.jpg_200x200_3f499a59.jpg",
+    "tag": "随买随用",
+    "title": "青城山",
+    "price": 40,
+    "commentNum": 24575,
+    "location": "都江堰市"
+  }, {
+    "id": "0008",
+    "imgUrl": "http://img1.qunarzz.com/sight/p0/1901/18/18a13d3f2c02668a3.img.jpg_200x200_16e09455.jpg",
+    "tag": "随买随用",
+    "title": "天堂岛海洋乐园",
+    "price": 86,
+    "commentNum": 5778,
+    "location": "武侯区"
+  }, {
+    "id": "0009",
+    "imgUrl": "http://img1.qunarzz.com/sight/p0/1901/56/561822590068af6ca3.water.jpg_200x200_f00fe660.jpg",
+    "tag": "可定今日",
+    "title": "国色天乡·童话世界",
+    "price": 95,
+    "commentNum": 3575,
+    "location": "国色天香"
+  }],
+    "weekendList": [{
+      "id": "0001",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/a2/78e4dbcfd45a6d.jpg_r_640x214_7a62b06a.jpg",
+      "title": "成都必打卡",
+      "desc": "成都的标志，也是现代人对老成都的记忆"
+    }, {
+      "id": "0002",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1507/a0/7087c85d439e4.jpg_r_640x214_4cd56a30.jpg",
+      "title": "远离烧烤模式",
+      "desc": "与冰川里的水晶宫、“摄影家走廊”、来一场亲密的约会，艰辛会有的，可这都是值得的"
+    }, {
+      "id": "0003",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1811/65/7322301be0a92c.jpg_r_640x214_a3485c55.jpg",
+      "title": "摩崖石刻造像",
+      "desc": "诸事不顺，来抱佛脚，中国最壮观的大佛大盘点~来一场真正的“佛”系之旅，乐山大佛是首选"
+    }, {
+      "id": "0004",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/63/0ffcb5c329a19c.jpg_r_640x214_93fd1e5a.jpg",
+      "title": "成都文艺范儿",
+      "desc": "《成都》唱火了这里，其实这儿不只有酒馆，还有很多文艺爆棚的地方"
+    }, {
+      "id": "0005",
+      "imgUrl": "http://img1.qunarzz.com/sight/source/1505/e2/2a63e38b84bc8e.jpg_r_640x214_679f0d37.jpg",
+      "title": "玩转主题乐园",
+      "desc": "乐园，与青春作伴"
+    }]
+  }
+}
